@@ -1,0 +1,16 @@
+I chose to enroll myself into this course because it centered on Front End Web
+Development. Currently, I’m the Technical Officer of SHPE-IIT and one of my task’s is
+to manage and update their website. SHPE-IIT’s website is http://shpeillinois.tech/.
+Before enrolling into this class, I did teach myself some HTML and CSS, but I am not
+fluent in the language. When it comes to programming in general I was off and on
+learning them. At first, I would fine interest in a new language learn its basics,
+do some online coding challenges and then I would lose interest. Ironically, I find
+coding to be boring. The reason being is that I’m more of hands-on and visual person.
+When I started teaching myself HTML and CSS it was easier to understand compared to other
+programming languages. HTML serves as the structure and CSS serves as the appearance
+of the website. This is easier for me to see, as I know what I’m looking for and what
+to modify. When I uploaded the redesigned website for SHPE-IIT, I downloaded a free
+site template and modified it to the needs of SHPE. Although modifying it was fairly
+easy with some web development knowledge, this template is not my own. My primary
+ambition that I hope to gain from this course is to be able to build a website from
+scratch with my own coding.
