@@ -3,16 +3,16 @@
 	body {
 	  background-color: #48c9b0
 	}
-
-	h1,h2,h3,h4{
-	/*Font size and font determine here for all heading*/
+	
+	h1 {
+	/*Font size and font determine here for h1*/
 	  font-size: 25px;
 	  font-family: Verdana;
 	}
 
 
 	p {
-	/*Font size and font determine here for all paragraph*/
+	/*Font size and font determine here for all paragraph tags*/
 	  font-family: Arial;
 	  font-size: 18px
 	}
