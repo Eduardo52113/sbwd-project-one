@@ -1,41 +1,56 @@
 Background(Who am I?)
 I’m Eduardo Perez a First-Generation Latino College Student pursing a Bachelor of
 Science in Computer Engineering at Illinois Tech, and oldest of three siblings in a family
-of five. Thinking about what to put in my background paragraph made me realize where I’m at
-in my college career and what have I accomplished so far. Back in High School, when we took
-that dumb test called “The ACT”. I remember teachers saying that the ACT score determines where
-and what you are going to do in college. The score ranged from 0 to 36, which 36 was the highest
-score to achieve. I studied and prepared for the test knowing that I want to pursue a pathway into
-engineering which had an average in the range of 25 to 33. But when I got the test results in the
-mail, I got a 13. At the times it was an embarrassment and I never revealed my score to friends then.
-After my many applications to get into an engineering out of high school, only one accepted me.
-But I declined it because of family and financial reasons. But that one acceptance gave me hope at the
-time saying that I can get into an engineering school. My college career started at Wilbur Wright Community
-College and through my community college I joined student’s organization, attend a science conference at
-California, got accepted into a High-Altitude Ballooning summer research program, and most importantly got
-accepted and transferred into my engineering school of my primary choice. Being this far in my academic career,
-I look back at my ACT results and I laugh at it. Thinking that score was going to determine my academic
-career, Ha! That score means nothing to me anymore. Hard work pays off. I’m technical a senior, but I’m
-expected to graduate in Spring 2020. One day that degree will be in my hands.
+of five. As expressed above, my areas of interest are cars, robotics, and Maker Spaces(Which are big
+DIY spaces). My interest in cars started by simply helping my Dad work his truck or on landscaping
+equipment before he had a stroke. Because of the stroke, he is no longer able to drive. This meant
+that his truck(Which is a 1996 Chevy Silverado 2500)had to parked in the garage until I was able to
+drive. A few years after I got my drivers license me, my brother, and my dad started working on the
+truck. Being in the garage for about 9 years, the fuel pump had to be replaced. After the pump was
+replaced, a new battery, 5 gallons of gas, and she started right up as if nothing happened. The
+sound of the small block v8 roaring again from sleeping put a simile on our faces. All 8 cylinders
+were firing and the transmission still worked! To me and my brother, we were surprised that it was
+still working after just sitting for a long period. But to my Dad, it was to no surprised as he
+was confident in his truck. After inspecting and fixing the truck through a year, we finally took it
+for a long drive. Aside from some body damage, the truck runs and drive. Driving my dad's truck brings
+old memories to me and my brother. Fixing the truck made me realize that I enjoy working with my
+hands and I gained an interest to pursue a path in the automotive industry. When it comes to robotics,
+I start geeking out. Watching NOVA and learning about the Mar's Rover during middle school, it
+fascinated me about NASA was able to control or program a robot to perform task on a different
+planet. But science fiction through different mediums such as video gaming(Titanfall two briefing video link),
+movies, shows revealed on how creative we can get when designing robots whether for entertainment
+or helping the world. This may me want to pursue my education into engineering. I'm interested in
+Maker Spaces because I went to one called Pump Station One with a friend to work on a project for
+a club at my community College. He was member of the Maker Space and he showed me around the site.
+It amazed me of all the tools at the ready to be used to create stuff. The site had tools such for
+wood works, welding, 3D printing, laser cutters, electronics, and they even had an electron microscope
+(no longer there). While at the pump station one, everyone was welcoming and they helped each other
+working on their projects. I remember help someone cutting a transformer(electronic part) for parts
+to build his own speaker. Even though I wasn't a member, they invited everyone in the space to a
+big dinner to celebrate someone birthday. Through the celebration, I met others and learned about
+projects they were working. Having a site such as Pump Station One encourages anyone to create and
+learn new things.
+
 
 
 What am I doing at Illinois Tech and What are my plans after IIT?
-I transferred into Illinois Tech in Fall 2016 from Wilbur Wright Community College.
-Being my first time entering as a student into a university student, I felt overwhelm.
-As my professor in my community told me “you’ll be a small fish in an ocean”. I only had one
-other two other friends that transferred with me into IIT, but they were mechanical engineering
-majors. But we met common ground through SHPE-IIT. I thankful that I joined SHPE-IIT because they
-made me feel welcomed to Illinois Tech. As their motto is one word “Familia”. Through SHPE, I
-networked and made friends with those pursuing in the same major. Later, I became their Technical
-Officer on their board. They helped me board my vision into the engineering field and the pathways
-to pursue. Another student organization, I current apart of is IIT’s NASA Robotics Mining team.
-Being a part of this, help increase my skill set as it applied the theories that were learned in
-class into building a mining robot for the annual NASA mining competition. I’m looking forward to
-build and go to competition in May of 2019. Through IIT, I got an invitation to visit and network
-software engineers at Google’s Chicago office in the west loop. This one initiation I never excepted,
-it reassured my confidence that I can complete my degree and achieve my goals. My goals after IIT are
-still in the thinking process. But if I could think of one goal, it would to be in a area similar to Maker Space
-that has tools readily available to build things, solve problems, and educate other in becoming problem solvers.
+I transferred into Illinois Tech in Fall 2016 from Wilbur Wright Community College. Transitioning
+from a community college to a university took some getting used to. But I found SHPE-IIT and that's
+when I felt more welcomed to the university. I networked and made friends with those pursuing
+in the same major. Later, I became their Technical Officer on their board. Through SHPE-IIT, I They helped me broaden
+my vision into the engineering field and the pathways to pursue. In Spring 2018, I was invited invite
+into IIT's NASA Robotics Mining Team to work with the electrical team. I started out by making wire
+connections for sensors, troubleshooting connections of all electrical components of the mining robot.
+Being a part of the mining team, helped me get a better understanding as into what is the process
+like building a robot from scratch and the amount of work going into troubleshooting. I'm looking
+forward to build and go with the team to the mining competition in May 2019. While at IIT, I was
+emailed an invitation to visit Google's Chicago office to network with their engineers. This was
+one email I never expected. At the event, I meet with other students from different university
+in Chicago. Several things I learned from this event are: Never say that your an expert in a
+programming language(You'll never know who will interview you), Do online Coding challenges,
+and Read the book called "Cracking the Coding Interview" to prepare for programming positions.
+
+
 
 
 Ambition for this course
