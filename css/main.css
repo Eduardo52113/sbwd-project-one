@@ -1,18 +1,31 @@
 /*Links for color: https://htmlcolorcodes.com/ */
 
+	html{
+		font-family: Arial;
+	}
 	body {
 	  background-color: #48c9b0
 	}
-	
 	h1 {
 	/*Font size and font determine here for h1*/
 	  font-size: 25px;
-	  font-family: Verdana;
+	  color: red;
+	  font-weight: normal;
+	}
+	p, ul{
+	/*Font size and font determine here for all paragraph tags*/
+	  font-size: 18px;
+	  font-weight: normal;
+	  line-height: 25px;
+	}
+	.classname{
+		/*this tells css that whenever it encounters that .classname,
+		perform these changes.*/
+	}
+	.email{
+		text-decoration: none;
 	}
 
-
-	p {
-	/*Font size and font determine here for all paragraph tags*/
-	  font-family: Arial;
-	  font-size: 18px
+	.Background {
+		
 	}
