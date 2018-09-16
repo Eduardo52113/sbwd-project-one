@@ -6,6 +6,7 @@
 	body {
 	  background-color: #000000
 	}
+
 	h1 {
 	/*Font size and font determine here for h1*/
 	  font-size: 25px;
@@ -20,10 +21,10 @@
 	  font-weight: normal;
 	  line-height: 25px;
 	}
-	.classname{
+	/*.classname{*/
 		/*this tells css that whenever it encounters that .classname,
 		perform these changes.*/
-	}
+	/*}*/
 	a {
 		/*changes all <a> tags*/
 		/*text-decoration: none;*/
