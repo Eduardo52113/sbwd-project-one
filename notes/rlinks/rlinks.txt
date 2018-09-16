@@ -1,3 +1,0 @@
-*********Reference Links that helped me builded my self
-1) How to host your website locally in your network
-	https://gist.github.com/jgravois/5e73b56fa7756fd00b89
