@@ -4,17 +4,19 @@
 		font-family: Arial;
 	}
 	body {
-	  background-color: #48c9b0
+	  background-color: #000000
 	}
 	h1 {
 	/*Font size and font determine here for h1*/
 	  font-size: 25px;
-	  color: red;
+	  color: orange;
 	  font-weight: normal;
 	}
 	p, ul{
 	/*Font size and font determine here for all paragraph tags*/
+		color: orange;
 	  font-size: 18px;
+		font-family: "Arial Black", Gadget, sans-serif;
 	  font-weight: normal;
 	  line-height: 25px;
 	}
@@ -22,10 +24,16 @@
 		/*this tells css that whenever it encounters that .classname,
 		perform these changes.*/
 	}
-	.email{
+	a {
+		/*changes all <a> tags*/
+		/*text-decoration: none;*/
+		color: #00FF00
+	}
+	.email, .list{
 		text-decoration: none;
+		color: #00FF00
 	}
 
 	.Background {
-		
+		/*background paragraph*/
 	}
